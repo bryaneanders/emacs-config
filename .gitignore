@@ -3,4 +3,6 @@
 
 # Except
 !.emacs
+!.emacs.d/
+!.emacs.d/*
 !.gitignore
